@@ -22,6 +22,8 @@ Ce projet permet de renforcer la maîtrise des bases du développement web tout 
  J'ai aussi apris à manipuler les cards avec flex-grid qui m'a facilité leur dispositions.
  En même temps j'ai découvert les animations et comment les utilisés.
 
+ - https://rera98.github.io/Testimonials_Grid/
+
  ![Description de l’image](rendu.png)
 
 
